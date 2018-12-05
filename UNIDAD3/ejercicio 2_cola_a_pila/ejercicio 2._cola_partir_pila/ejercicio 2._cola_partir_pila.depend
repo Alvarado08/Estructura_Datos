@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1539960508 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\cola.cpp
+	"Cola.h"
+
+1539962722 c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\cola.h
+	<iostream>
+
+1539962529 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\pila.cpp
+	"Pila.h"
+
+1539960616 c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\pila.h
+	<iostream>
+
+1539932624 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\main.cpp
+	<iostream>
+	"Pila.h"
+	"Cola.h"
+	"stdlib.h"
+
+1540925474 source:e:\estructura_datos\uni 3\ejercicio 2._cola_partir_pila\ejercicio 2._cola_partir_pila\cola.cpp
+	"Cola.h"
+
+1540265288 e:\estructura_datos\uni 3\ejercicio 2._cola_partir_pila\ejercicio 2._cola_partir_pila\cola.h
+	<iostream>
+
+1540265288 source:e:\estructura_datos\uni 3\ejercicio 2._cola_partir_pila\ejercicio 2._cola_partir_pila\main.cpp
+	<iostream>
+	"Pila.h"
+	"Cola.h"
+	"stdlib.h"
+
+1540265288 e:\estructura_datos\uni 3\ejercicio 2._cola_partir_pila\ejercicio 2._cola_partir_pila\pila.h
+	<iostream>
+
+1540924366 source:e:\estructura_datos\uni 3\ejercicio 2._cola_partir_pila\ejercicio 2._cola_partir_pila\pila.cpp
+	"Pila.h"
+
